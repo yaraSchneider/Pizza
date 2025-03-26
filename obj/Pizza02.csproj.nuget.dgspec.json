@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yara_schneider\\Downloads\\Pizza\\Pizza02\\Pizza02.csproj": {}
+    "C:\\Users\\yara_schneider\\Documents\\GitHub\\Pizza\\Pizza02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yara_schneider\\Downloads\\Pizza\\Pizza02\\Pizza02.csproj": {
+    "C:\\Users\\yara_schneider\\Documents\\GitHub\\Pizza\\Pizza02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yara_schneider\\Downloads\\Pizza\\Pizza02\\Pizza02.csproj",
+        "projectUniqueName": "C:\\Users\\yara_schneider\\Documents\\GitHub\\Pizza\\Pizza02.csproj",
         "projectName": "Pizza02",
-        "projectPath": "C:\\Users\\yara_schneider\\Downloads\\Pizza\\Pizza02\\Pizza02.csproj",
+        "projectPath": "C:\\Users\\yara_schneider\\Documents\\GitHub\\Pizza\\Pizza02.csproj",
         "packagesPath": "C:\\Users\\yara_schneider\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yara_schneider\\Downloads\\Pizza\\Pizza02\\obj\\",
+        "outputPath": "C:\\Users\\yara_schneider\\Documents\\GitHub\\Pizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yara_schneider\\AppData\\Roaming\\NuGet\\NuGet.Config",

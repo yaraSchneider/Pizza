@@ -22,6 +22,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Pizza02
-build_property.ProjectDir = C:\Users\yara_schneider\Downloads\Pizza\Pizza02\
+build_property.ProjectDir = C:\Users\yara_schneider\Documents\GitHub\Pizza\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
